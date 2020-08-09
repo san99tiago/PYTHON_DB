@@ -4,5 +4,8 @@ __pycache__
 # Ignore unnecessary virtual environments
 venv
 
+# Ignore the Visual Studio Code settings
+.vscode
+
 # Ignore extra images and local content
 help_imgs
