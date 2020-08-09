@@ -1,2 +1,8 @@
-# Ignore unnecesary virtual environments
+# Ignore Python unnecessary files
+__pycache__
+
+# Ignore unnecessary virtual environments
 venv
+
+# Ignore extra images and local content
+help_imgs
